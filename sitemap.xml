@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://xhopeter.ir/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/about/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/blog/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/blog/post-example-with-headings-and-toc/</loc>
+        <lastmod>2020-07-09</lastmod>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/journal/</loc>
+        <lastmod>2019-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/tags/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/tags/example/</loc>
+    </url>
+</urlset>
