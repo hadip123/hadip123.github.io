@@ -10,11 +10,14 @@
         <loc>https://xhopeter.ir/blog/</loc>
     </url>
     <url>
-        <loc>https://xhopeter.ir/blog/page/1/</loc>
+        <loc>https://xhopeter.ir/blog/example/</loc>
     </url>
     <url>
-        <loc>https://xhopeter.ir/blog/post-example-with-headings-and-toc/</loc>
-        <lastmod>2020-07-09</lastmod>
+        <loc>https://xhopeter.ir/blog/kagayaki/</loc>
+        <lastmod>2025-01-23</lastmod>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/blog/page/1/</loc>
     </url>
     <url>
         <loc>https://xhopeter.ir/journal/</loc>
@@ -24,6 +27,12 @@
         <loc>https://xhopeter.ir/tags/</loc>
     </url>
     <url>
+        <loc>https://xhopeter.ir/tags/commentary/</loc>
+    </url>
+    <url>
         <loc>https://xhopeter.ir/tags/example/</loc>
+    </url>
+    <url>
+        <loc>https://xhopeter.ir/tags/music/</loc>
     </url>
 </urlset>
